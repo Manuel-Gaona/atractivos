@@ -1,0 +1,47 @@
+[
+	{
+		"nombre": "Museo Nacional de Antropología",
+		"ubicacion": {
+			"lugar": "Ciudad de México",
+			"latitud": 19.4267,
+			"longitud": -99.1869
+		},
+		"descripcion": "El Museo Nacional de Antropología es uno de los museos más importantes de México y cuenta con una impresionante colección de artefactos prehispánicos."
+	},
+	{
+		"nombre": "Palacio de Bellas Artes",
+		"ubicacion": {
+			"lugar": "Ciudad de México",
+			"latitud": 19.4354,
+			"longitud": -99.1413
+		},
+		"descripcion": "El Palacio de Bellas Artes es un impresionante edificio histórico que alberga algunas de las obras de arte más importantes del país."
+	},
+	{
+		"nombre": "Playa Delfines",
+		"ubicacion": {
+			"lugar": "Cancún",
+			"latitud": 21.0833,
+			"longitud": -86.7833
+		},
+		"descripcion": "Playa Delfines es una hermosa playa pública en Cancún con aguas cristalinas y arena blanca."
+	},
+	{
+		"nombre": "Isla Mujeres",
+		"ubicacion": {
+			"lugar": "Cancún",
+			"latitud": 21.2325,
+			"longitud": -86.7317
+		},
+		"descripcion": "Isla Mujeres es una pequeña isla frente a la costa de Cancún con hermosas playas y un ambiente relajado."
+	},
+	{
+		"nombre": "Chichén Itzá",
+		"ubicacion": {
+			"lugar": "Yucatán",
+			"latitud": 20.6829,
+			"longitud": -88.5699
+		},
+		"descripcion": "Chichén Itzá es una de las ruinas mayas más importantes de México y una de las Nuevas Siete Maravillas del Mundo."
+	}
+]

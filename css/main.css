@@ -1,0 +1,45 @@
+.container-section {
+    overflow: hidden;
+    position: relative;
+    border-radius: 1vw;
+    border: 2px solid #000;
+    margin: 1vw auto;
+}
+.container-section img{
+    min-width: 100%;
+}
+.container-section img:hover {
+    transform: scale(1.1);
+    transition: transform 0.5s ease;
+}
+
+.container-section-title {
+    position: absolute;
+    margin: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+}
+
+.container-section-title:hover {
+    text-decoration: underline;
+}
+
+.container-section-link {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 10px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    z-index: 99;
+}
+
+.container-section-link:hover {
+    background-color: rgba(0, 0, 0, 0.9);
+}
